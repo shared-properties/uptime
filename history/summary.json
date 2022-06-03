@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1880,
-    "timeDay": 1880,
-    "timeWeek": 1880,
-    "timeMonth": 1880,
-    "timeYear": 1880,
+    "time": 1911,
+    "timeDay": 1911,
+    "timeWeek": 1911,
+    "timeMonth": 1911,
+    "timeYear": 1911,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,17 @@
     "url": "https://api.shared.properties/api",
     "icon": "https://favicons.githubusercontent.com/api.shared.properties",
     "slug": "api",
-    "status": "down",
-    "uptime": "71.43%",
-    "uptimeDay": "71.43%",
-    "uptimeWeek": "71.43%",
-    "uptimeMonth": "71.43%",
-    "uptimeYear": "71.43%",
-    "time": 2013,
-    "timeDay": 2013,
-    "timeWeek": 2013,
-    "timeMonth": 2013,
-    "timeYear": 2013,
-    "dailyMinutesDown": {
-      "2022-06-03": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1715,
+    "timeDay": 1715,
+    "timeWeek": 1715,
+    "timeMonth": 1715,
+    "timeYear": 1715,
+    "dailyMinutesDown": {}
   }
 ]
