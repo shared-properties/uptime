@@ -16,14 +16,15 @@ sites:
         me {
           __typename
         }
-      }"'
+      }"}'
 
 status-website:
   cname: status.shared.properties
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://www.shared.properties/favicon/favicon-228.png
+  logoUrl: https://www.shared.properties/images/logos/sidebar.svg
   name: Shared Properties Status
   introTitle: "Status page for Shared Properties"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: ""
   metaTags:
     - name: "robots"
       content: "noindex"
