@@ -16,15 +16,16 @@ sites:
         me {
           __typename
         }
-      }"}'
+      }"
+    }'
 
 status-website:
   cname: status.shared.properties
   favicon: https://www.shared.properties/favicon/favicon-228.png
   logoUrl: https://www.shared.properties/images/logos/sidebar.svg
-  name: Shared Properties Status
-  introTitle: "Status page for Shared Properties"
-  introMessage: ""
+  name: "Shared Properties - Status"
+  introTitle: "Status for www.shared.properties"
+  introMessage: "This site is an automated system for determining if www.shared.properties is experiencing technical difficulties"
   metaTags:
     - name: "robots"
       content: "noindex"
@@ -35,6 +36,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/shared-properties/uptime
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  i18n:
+    footer: ""
