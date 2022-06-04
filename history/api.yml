@@ -1,7 +1,7 @@
 url: https://api.shared.properties/api
-status: down
-code: 500
-responseTime: 460
-lastUpdated: 2022-06-03T23:05:37.954Z
+status: up
+code: 200
+responseTime: 1192
+lastUpdated: 2022-06-04T05:09:13.219Z
 startTime: Fri Jun 03 2022 06:37:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
