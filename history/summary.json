@@ -22,17 +22,17 @@
     "url": "https://api.shared.properties/api",
     "icon": "https://favicons.githubusercontent.com/api.shared.properties",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1738,
-    "timeDay": 1738,
-    "timeWeek": 1738,
-    "timeMonth": 1738,
-    "timeYear": 1738,
+    "time": 1683,
+    "timeDay": 1683,
+    "timeWeek": 1683,
+    "timeMonth": 1683,
+    "timeYear": 1683,
     "dailyMinutesDown": {}
   }
 ]
