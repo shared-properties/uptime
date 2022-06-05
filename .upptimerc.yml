@@ -31,9 +31,9 @@ status-website:
     - name: "robots"
       content: "noindex"
   navbar:
-    - title: www
-      href: https://www.shared.properties
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/shared-properties/uptime
+    - title: Exit
+      href: https://www.shared.properties
