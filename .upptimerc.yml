@@ -24,9 +24,9 @@ status-website:
   favicon: https://www.shared.properties/favicon/favicon-228.png
   logoUrl: https://www.shared.properties/images/logos/sidebar.svg
   css: "footer { display: none; }"
-  name: "Shared Properties - Status"
-  introTitle: "Status for www.shared.properties"
-  introMessage: "This site is an automated system for determining if www.shared.properties is experiencing technical difficulties"
+  name: "Status: shared.properties"
+  introTitle: "Service status for Shared Properties"
+  introMessage: "This site communicates if services are experiencing technical difficulties. This information is automated and not manually managed."
   metaTags:
     - name: "robots"
       content: "noindex"
