@@ -4,7 +4,7 @@
     "url": "https://www.shared.properties/",
     "icon": "https://favicons.githubusercontent.com/www.shared.properties",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1640,
     "timeMonth": 1729,
     "timeYear": 1729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-27": 0
+    }
   },
   {
     "name": "api",
